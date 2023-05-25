@@ -34,3 +34,5 @@ This is my first React project related to the Tic-Tac-Toe game, in this case the
 
 - Linkedin - [Miguel Ángel (midudev) Durán García](https://www.linkedin.com/in/midudev/?originalSubdomain)
 - Website - [Midudev](https://midu.dev/)
+
+
